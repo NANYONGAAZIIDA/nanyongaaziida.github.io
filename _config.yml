@@ -1,15 +1,15 @@
 # Site Author
 author:
   name: "Dr. Aziida Nanyonga"
-  avatar: "bio-photo.jpg" # You can upload a photo named bio-photo.jpg to the /images/ folder later!
+  avatar: "bio-photo.jpg"
   bio: "Postdoctoral Researcher in Artificial Intelligence at KFUPM."
   location: "Dammam, Saudi Arabia"
   employer: "King Fahd University of Petroleum and Minerals (KFUPM)"
   
   # Social Media & Academic Profile Links
-   email: "mailto:your.aziida.nanyonga@kfupm.edu.sa"
-  googlescholar: "https://scholar.google.com/citations?user=_APpT7wAAAAJ&hl=en&oi=ao"
-  orcid: "https://orcid.org/0000-0002-0910-3503"
-  linkedin: "https://www.linkedin.com/in/aziida-nanyonga-phd-126b70201/?isSelfProfile=true"
-  researchgate: "https://www.researchgate.net/profile/Aziida-Nanyonga?ev=hdr_xprf"
+  email: "aziida.nanyonga@kfupm.edu.sa"
+  googlescholar: "_APpT7wAAAAJ"
+  orcid: "0000-0002-0910-3503"
+  linkedin: "aziida-nanyonga-phd-126b70201"
+  researchgate: "Aziida-Nanyonga"
   github: "NANYONGAAZIIDA"
